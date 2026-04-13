@@ -1,0 +1,4 @@
+pdf2image
+docx2pdf
+PyAutoGUI
+pynput
